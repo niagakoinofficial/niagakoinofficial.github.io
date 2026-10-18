@@ -1,0 +1,7 @@
+# robots.txt for GAIN (Niaga Koin)
+# Allow all search engines to crawl public pages
+User-agent: *
+Allow: /
+
+# XML Sitemap
+Sitemap: https://niagakoin.com/sitemap.xml
