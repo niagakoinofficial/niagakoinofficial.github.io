@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://niagakoin.com/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Multi-language Alternate Links -->
+    <xhtml:link rel="alternate" hreflang="id" href="https://niagakoin.com/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://niagakoin.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://niagakoin.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://niagakoin.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://niagakoin.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://niagakoin.com/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://niagakoin.com/" />
+    
+    <!-- Rich Image for Search Indexing -->
+    <image:image>
+      <image:loc>https://niagakoin.com/logo.png</image:loc>
+      <image:title>GAIN Niaga Koin Official Logo</image:title>
+      <image:caption>GAIN (Niaga Koin) – Bot Trading Kuantitatif DCA &amp; Grid Multi-Koin Non-Kustodian</image:caption>
+    </image:image>
+  </url>
+</urlset>
